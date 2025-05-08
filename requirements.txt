@@ -4,3 +4,4 @@ scipy
 matplotlib
 pydub
 ffmpeg-python
+setuptools

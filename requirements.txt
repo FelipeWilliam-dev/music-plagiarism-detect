@@ -1,0 +1,6 @@
+librosa==0.10.1
+numpy
+scipy
+matplotlib
+pydub
+ffmpeg-python
